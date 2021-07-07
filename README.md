@@ -7,5 +7,4 @@ Hey there,I'm Sultan Khan 👋😎
 ⚡ Fun fact: 😴😴😴😴😴
 
 Connect with me:
-Arun | LinkedIn
-
+Sultan | LinkedIn
