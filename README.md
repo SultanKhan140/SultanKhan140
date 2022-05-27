@@ -1,45 +1,22 @@
-### Hey there,I'm Sultan Khan 👋😎
-- 🔭 I’m currently working on Resume-web
-- 🌱 I’m currently learning Python Django Devloper
-- 👯 I’m looking to collaborate on TCS
-- 🤔 I’m looking for help with Python
-- 💬 Ask me about tech [here](https://github.com/SultanKhan140/SultanKhan140/issues)
-- ⚡ Fun fact: 😴😴😴😴😴
-### Connect with me:
+I have done a 6-month certification as a python developer. I have 6 months experience as a Jr Pyhton Developer  in Softcell Technologies Global Private Limited 
+* 🌍  I'm based in Maharashtra, India
+* ✉️  You can contact me at [sultankhan1401s@gmail.com](mailto:sultankhan1401sgmail.com)
+* 🧠  I'm learning Full-stack Development.
+* ⚡  I'm secretly Spiderman. but don't tell anyone :)
+## 🚀 Skills And Technologys Know
+| Familer  | Technologys |
+| ---      | ---         |
+| Front-End       | <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> |
+| Back-End        | <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /> |
+| Data-Bases      | </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> |
+| Languages       | <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>   |
+| Deployment      | <a href="https://www.Docker.com/" target="_blank" rel="noreferrer"><img src="" width="36" height="36" alt="Heroku" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a> |
+| Designing       | <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a> <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> |
+| Socials       | <a href="https://www.github.com/MdHassan413" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/md-hassan-ansari-aa6208207/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@MohadHassanAnsari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> |
 
-[<img align="left" alt="Sultan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Sultan| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Sultan| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-<br />
+ ## 🏆 My GitHub Stats, Graph and Streak
 
+<a href="http://www.github.com/Sultankhan140"><img src="https://github-readme-stats.vercel.app/api?username=Sultankhan140&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="MdHassan413's GitHub stats" /></a><a href="http://www.github.com/Sultankhan140"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sultankhan140&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/Sultankhan140"><img src="https://github-readme-stats.vercel.app/api?username=Sultankhan140&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sultankhan140's GitHub stats" /></a> <a href="http://www.github.com/Sultankhan140"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sultankhan140&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-### Languages and Tools:
-<img align="left" alt="Python" width="70px" src="https://www.sonarqube.org/features/multi-languages/python/color.svg" />
-<img align="left" alt="Hibernate" width="70px" src="https://hibernate.org/images/hibernate-logo.svg" />
-<img align="left" alt="Spring" width="70px" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />
-<img align="left" alt="MySQL" width="70px" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" />
-<br />
-<br/>
-
-
-![](https://komarev.com/ghpvc/?username=SultanKhan140)
-
-
-
-
-<img width=100% src="https://github-profile-trophy.vercel.app/?username=SultanKhan140&column=7"/>
-
-
-[![Arun's github stats](https://github-readme-stats.vercel.app/api?username=SultanKhan140&count_private=true&hide=prs&show_icons=true&theme=radical&icon_color=79ff97&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
->
-[![Top Language use by Sultan](https://github-readme-stats.vercel.app/api/top-langs/?username=SultanKhan140)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
-[instagram]: https://www.instagram.com/__mr__khan1401/
-[linkedin]: https://www.linkedin.com/in/sultan-khan-98a77a1bb/
-[facebook]: https://www.facebook.com/profile.php?id=100004388026308/
+<!-- <a href="https://github.com/MdHassan413" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHassan413&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
