@@ -1,6 +1,6 @@
 Hi 👋 My name is Sultan Khan
 ===================================
-Python Developer
+Software Developer
 ----------------
 
 
